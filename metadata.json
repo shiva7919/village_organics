@@ -1,0 +1,7 @@
+{
+  "name": "Village Organics",
+  "description": "A premium eCommerce platform for fresh, organic farm products featuring AI-powered nutritional advice and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
